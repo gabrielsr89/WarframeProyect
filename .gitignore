@@ -1,0 +1,13 @@
+# Ignorar la carpeta 'bin' en cualquier ubicación del proyecto
+**/bin/
+
+# Ignorar la carpeta 'obj' en cualquier ubicación del proyecto
+**/obj/
+
+# Ignorar la carpeta 'bin' dentro de la carpeta 'Test' en cualquier ubicación del proyecto
+**/Test/bin/
+
+# Ignorar la carpeta 'obj' dentro de la carpeta 'Test' en cualquier ubicación del proyecto
+**/Test/obj/
+
+**/.vs/

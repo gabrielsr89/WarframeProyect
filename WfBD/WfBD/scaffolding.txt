@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Data Source=DESKTOP-P0N0H6H\SQLEXPRESS2019;Database=WarframeProyect;Trusted_Connection=SSPI;MultipleActiveResultSets=true;TrustServerCertificate=true" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
